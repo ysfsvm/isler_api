@@ -2,7 +2,7 @@
 
 isler_api is a Python/Bash-based script collection that allows you to convert books from İşler Zkitap app into PDF format. This project provides an efficient way to transform educational materials from İşler Zkitap into a more accessible and readable format.
   
-## Installing
+## Usage
 
 **To use isler_api, follow these steps:**
 
